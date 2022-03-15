@@ -9,7 +9,7 @@ compileScala {
 }
 
 repositories {
-    mavenLocal()
+    mavenCentral()
 }
 
 dependencies {
