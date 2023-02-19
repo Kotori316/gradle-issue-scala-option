@@ -13,5 +13,5 @@ repositories {
 }
 
 dependencies {
-    implementation(group: 'org.scala-lang', name: 'scala3-library_3', version: '3.1.2-RC2')
+    implementation(group: 'org.scala-lang', name: 'scala3-library_3', version: '3.2.2')
 }
